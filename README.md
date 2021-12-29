@@ -2,6 +2,3 @@
 
 <p align='center'>For enquiries, reach out yhebkanzari@gmail.com or over on <a href="https://www.linkedin.com/in/yheb-kanzari-18b30b198">Linkedin</a>.</p>
 <p align='center'><a href="https://github.com/ykanza/babel/files/7786914/CV.Yheb.Kanzari.pdf">Curriculum Vitae</a>.</p>
-
-
-<h1 align='center'><i>!!</i></h1>
